@@ -21,7 +21,7 @@ Si otros usuarios han tomado a todos los motociclistas, la caja debe aparecer en
 
 Tiempo máximo 1hr
 
-## *EInstrucciones*
+## *Instrucciones*
 
 1 - Descargar el .zip y descomprimir
 2 - Abrir la carpeta en tu IDE o editor de texto
