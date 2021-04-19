@@ -1,6 +1,7 @@
 ## Inicio
 
 Desarrolle un pack de juegos basado en un video hecho por el youtuber holamundo, en donde propone realizar 5 ejercicios para el portfolio
+
 Tecnologías implementadas: React, Bootstrap, CSS, HTML, Javascript.
 
 ## *Ejercicio 1*
@@ -24,7 +25,11 @@ Tiempo máximo 1hr
 ## *Instrucciones*
 
 1 - Descargar el .zip y descomprimir
+
 2 - Abrir la carpeta en tu IDE o editor de texto
+
 3 - Abrir la consola
+
 4 - Instalar el paquete de bootstrap, copiar en la consola "npm install bootstrap"
+
 5 - Ejecutar el comando "npm start" en la consola
